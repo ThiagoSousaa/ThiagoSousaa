@@ -1,6 +1,6 @@
 <h1 align="left"> Olá, sou o Thiago Sousa!</h1>
 <img align="center" height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-<img align="right" height="500"
+<img align="right" height="400"
 src="https://i.pinimg.com/originals/6b/0b/6b/6b0b6bec9c937eab78caa95b6d6e7b8b.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoSousaa&color=yellow" alt="Profile views" /> </p>
 
