@@ -1,17 +1,17 @@
 <h1 align="left"> Olá, sou o Thiago Sousa!</h1>
 <img align="center" height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 <img align="right" height="500"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsOXZxc3IwZXdsNmY5aWM1amI2eDcxOXdya3hxeG1zZnloMDN3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gsvCk59AwGX28XS/giphy.gif"/>
+src="https://i.pinimg.com/originals/6b/0b/6b/6b0b6bec9c937eab78caa95b6d6e7b8b.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoSousaa&color=yellow" alt="Profile views" /> </p>
 
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working at (Colgate-Palmolive)
+- 🔭 Atualmente trabalho na (Colgate-Palmolive)
 
 <!-- Dropdown -->
   <p>👨‍💻 More about me</p>
 
-  - 💬 I am 21 years old, currently living in Brazil. Tenho o inglês básico e tenho experiência com Python básico. Também tenho conhecimento intermediário na área da informática, exemplos: Redes, Cabeamento, Processos de reparo e análise de erros, formatação de máquina, atualizaçao, lógica de programação, gerenciamento de arquivos, hardware básico...
+  - 💬 Tenho 21 anos e atualmente moro no Brasil. Tenho inglês básico e experiência com Python básico. Possuo também conhecimentos intermediários na área de TI, exemplos: Redes, Cabeamento, Processos de reparo e análise de erros, formatação de máquinas, atualização, lógica de programação, gerenciamento de arquivos, hardware básico...
 
   - ⚡Gosto de ler notícias, livros, além de assistir filmes e jogar! Acredito que esses interesses contribuem para o desenvolvimento do profissional :)
 
