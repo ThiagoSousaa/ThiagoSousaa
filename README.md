@@ -27,10 +27,7 @@ src="https://i.pinimg.com/originals/6b/0b/6b/6b0b6bec9c937eab78caa95b6d6e7b8b.pn
 
 ## 💻​ Tecnologias
 <div style="display: inline_block"><br/>
-   <img align="center" alt="html5," src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img align="center" alt="html5," src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-   <img align="center" alt="html5," src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-   <img align="center" alt="html5," src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="html5," src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
    <img align="center" alt="html5," src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
@@ -46,7 +43,5 @@ src="https://i.pinimg.com/originals/6b/0b/6b/6b0b6bec9c937eab78caa95b6d6e7b8b.pn
   </div>
   
 <br></br>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nmxa34g3erv6gvfn44ae2th7ym&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
