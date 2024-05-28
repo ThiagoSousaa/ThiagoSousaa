@@ -4,14 +4,14 @@
 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a3e01c106954973.5f9b91e43706a.gif"/>
 <img src="https://komarev.com/ghpvc/?username=ThiagoSousaa&color=yellow" alt="Profile views" /> </p>
 
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas (FAM)
 
 - 🔭 Atualmente trabalho na (Colgate-Palmolive)
 
 <!-- Dropdown -->
   <p>👨‍💻 More about me</p>
 
-  - 💬 Tenho 21 anos e atualmente moro no Brasil. Tenho inglês básico e experiência com Python. Possuo também conhecimentos intermediários na área de TI, exemplos: Redes, Cabeamento, Processos de reparo e análise de erros, formatação de máquinas, atualização, lógica de programação, gerenciamento de arquivos, hardware básico...
+  - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento na linguagem Python e estudo formas de automatizar taerfas. Possuo conhecimentos dentro de Redes, Sistemas operacionais Linux e Windowns, Análise de erros, formatação de máquinas, lógica de programação, gerenciamento de arquivos e harware.
 
   - ⚡Gosto de ler notícias, livros, além de assistir filmes e jogar! Acredito que esses interesses contribuem para o desenvolvimento do profissional :)
 
