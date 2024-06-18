@@ -6,12 +6,10 @@ src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a3e01c106954973.
 
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas (FAM)
 
-- 🔭 Atualmente trabalho na (Colgate-Palmolive)
-
 <!-- Dropdown -->
   <p>👨‍💻 More about me</p>
 
-  - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento na linguagem Python e estudo formas de automatizar taerfas. Possuo conhecimentos dentro de Redes, Sistemas operacionais Linux e Windowns, Análise de erros, formatação de máquinas, lógica de programação, gerenciamento de arquivos e harware.
+  - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento na linguagem Python com foco em automatização de tarefas. Possuo conhecimentos dentro de Redes, Sistemas operacionais Linux e Windowns, Análise de erros, formatação de máquinas, lógica de programação, gerenciamento de arquivos e harware.
 
   - ⚡Gosto de ler notícias, livros, além de assistir filmes e jogar! Acredito que esses interesses contribuem para o desenvolvimento do profissional :)
 
