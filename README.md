@@ -7,11 +7,9 @@ src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a3e01c106954973.
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas (FAM)
 
 <!-- Dropdown -->
-  <p>👨‍💻 More about me</p>
+  <p>👨‍💻 Sobre mim</p>
 
-  - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento em linguagem Python com foco na automatização de tarefas. Possuo conhecimentos em Sistemas operacionais Linux e Windowns, lógica de programação, hardware básico e formatação de máquinas.
-
-  - ⚡Gosto de ler notícias, livros, além de assistir filmes e jogar! Acredito que esses interesses contribuem para o desenvolvimento do profissional :)
+  - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento em linguagem Python com foco na automatização de tarefas. Possuo um conjunto de conhecimentos em Sistemas operacionais Linux Mint e Windows, Linguagem Python - Plotly - Pyautogui e SQL básico.
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thz_tlzo/)
