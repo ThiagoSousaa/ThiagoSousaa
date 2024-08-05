@@ -1,14 +1,13 @@
 <h1 align="left"> Olá, sou o Thiago Sousa!</h1>
 <img align="center" height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 <img align="right" height="300"
+src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a3e01c106954973.5f9b91e43706a.gif"/>
 
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas (FAM)
+- 🌱 Estudante no 5s de Análise e Desenvolvimento de Sistemas (FAM) - São Paulo
 
 <!-- Dropdown -->
-
   <p>👨‍💻 Sobre mim</p>
-
-  - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento em linguagem Python com foco na automatização de tarefas. Possuo um conjunto de conhecimentos em Sistemas operacionais Linux Mint e Windows, Linguagem Python - Plotly - Pyautogui e SQL básico.
+  - 💬 Tenho 22 anos e atualmente moro em São Paulo z/s. Possuo um conjunto de conhecimentos em Sistemas operacionais Linux Mint e Windows, WSL, Sistema Tasy, Linguagem Python - Plotly - Pyautogui e SQL básico.
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thz_tlzo/)
