@@ -5,6 +5,7 @@
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas (FAM)
 
 <!-- Dropdown -->
+
   <p>👨‍💻 Sobre mim</p>
 
   - 💬 Tenho 22 anos e atualmente moro em São Paulo. Tenho conhecimento em linguagem Python com foco na automatização de tarefas. Possuo um conjunto de conhecimentos em Sistemas operacionais Linux Mint e Windows, Linguagem Python - Plotly - Pyautogui e SQL básico.
