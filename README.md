@@ -1,8 +1,6 @@
 <h1 align="left"> Olá, sou o Thiago Sousa!</h1>
 <img align="center" height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 <img align="right" height="300"
-src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a3e01c106954973.5f9b91e43706a.gif"/>
-<img src="https://komarev.com/ghpvc/?username=ThiagoSousaa&color=yellow" alt="Profile views" /> </p>
 
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas (FAM)
 
