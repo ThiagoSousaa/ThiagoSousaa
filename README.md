@@ -14,7 +14,7 @@ src="https://i.pinimg.com/originals/f4/b9/69/f4b969a901bdb3bb2b988d8c1b9da6ab.jp
  💡  Microsoft Office 365 - Fundação Bradesco <br>
  💡  Algoritmo e Lógica de Programação - Gustavo Guanabara (CURSO EM VÍDEO) <br>
  💡  Linguagem Python (Pandas, Streamlit, Plotly) - (FAM) <br>
- 💡  MySQL Básico - (FAM) <br>
+ 💡  SQL SERVER - (FAM) <br>
  💡  Infraestrutura de TI - SENAI SP <br>
 </div>
 <div>
