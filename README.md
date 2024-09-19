@@ -1,7 +1,7 @@
 <h1 align="left"> Olá, sou o Thiago Sousa!</h1>
 <img align="center" height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 <img align="right" height="300"
-src="https://i.pinimg.com/originals/f4/b9/69/f4b969a901bdb3bb2b988d8c1b9da6ab.jpg"/>
+src="https://i.pinimg.com/originals/b0/d9/3e/b0d93ec0831d97e5c05dd4dabed6f7c6.gif"/>
 <div>
 <!-- Dropdown -->
   <h2> Sobre mim </h2>
@@ -15,7 +15,7 @@ src="https://i.pinimg.com/originals/f4/b9/69/f4b969a901bdb3bb2b988d8c1b9da6ab.jp
  💡  Algoritmo e Lógica de Programação - Gustavo Guanabara (CURSO EM VÍDEO) <br>
  💡  Linguagem Python (Pandas, Streamlit, Plotly) - (FAM) <br>
  💡  SQL Server - (FAM) <br>
- 💡  Infraestrutura de TI - SENAI SP <br>
+ 💡  Infraestrutura de TI (Oracle VTBX/Active Directory)- SENAI SP <br>
 </div>
 <div>
 <!-- Links -->
