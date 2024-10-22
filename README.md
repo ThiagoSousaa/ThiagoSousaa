@@ -15,7 +15,7 @@ src="https://i.pinimg.com/originals/8b/cd/b0/8bcdb05b2e9ec06f3cacbf3bee9b5834.jp
  💡  Algoritmo e Lógica de Programação - Gustavo Guanabara (CURSO EM VÍDEO) <br>
  💡  Linguagem Python (Pandas, Streamlit, Plotly) - (FAM) <br>
  💡  SQL Server - (FAM) <br>
- 💡  Infraestrutura de TI (Oracle VTBX/Active Directory)- SENAI SP <br>
+ 💡  Infraestrutura de TI (Oracle VTBX/WSL, Ubuntu)- SENAI SP <br>
 </div>
 <div>
 <!-- Links -->
