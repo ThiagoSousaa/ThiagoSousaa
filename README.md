@@ -5,20 +5,9 @@ src="https://i.pinimg.com/originals/8e/1e/85/8e1e853313ace4ffcf50b56f22f844d4.gi
 <div>
 <!-- Dropdown -->
   <h2> Sobre mim </h2>
- 💬 Tenho 22 anos e atualmente moro em São Paulo z/s. Possuo um conjunto de conhecimentos em Sistemas operacionais Linux Mint, Windows, WSL, Sistema Tasy, Linguagem Python - Plotly - Pyautogui e SQL básico.
+Tecnólogo em ADS | Python 🐍 | Infra & Suporte 💻
+Segurança 🔒, sistemas 🖥️ e desenvolvimento ⚙️.
 </div>
-
-<div>
-<h2>🎓 Formação Acadêmica 🎓</h2>
- 🖥️  Análise e Desenvolvimento de Sistemas - Faculdade das Américas (FAM) <br>
- 💡  Microsoft Office 365 - Fundação Bradesco <br>
- 💡  Algoritmo e Lógica de Programação - Gustavo Guanabara (CURSO EM VÍDEO) <br>
- 💡  Linguagem Python (Pandas, Streamlit, Plotly) - (FAM) <br>
- 💡  SQL Server - (FAM) <br>
- 💡  Infraestrutura de TI (Oracle VTBX/WSL, Ubuntu)- SENAI SP <br>
-</div>
-<div>
-<!-- Links -->
 <br>
 <div>
   <a href="https://www.instagram.com/thz_tlzo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
