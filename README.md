@@ -1,7 +1,6 @@
 <h1 align="left"> Olá, sou o Thiago Sousa!</h1>
 <img align="center" height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 <img align="right" height="450"
-src="https://i.pinimg.com/originals/8e/1e/85/8e1e853313ace4ffcf50b56f22f844d4.gif"/>
 <div>
 <!-- Dropdown -->
   <h2> Sobre mim </h2>
