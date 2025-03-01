@@ -14,26 +14,19 @@ Segurança 🔒, sistemas 🖥️ e desenvolvimento ⚙️.
   <a href="mailto:thiagosousasantos129@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
   <br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoSousaa&bg_color=1b2436&color=27ece9&line=63c573&point=75d0d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
-
- 💻​ Tecnologias
 <div style="display: inline_block"><br/>
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="html5," src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
    <img align="center" alt="html5," src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
-
   </div>
-
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>⚙️ Ferramentas | Programas </h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="html5," src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </div>
-  
 <br></br>
 
 
