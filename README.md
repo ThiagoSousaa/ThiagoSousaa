@@ -20,7 +20,6 @@ Segurança 🔒, sistemas 🖥️ e desenvolvimento ⚙️.
    <img align="center" alt="html5," src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
   </div>
-  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="html5," src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
