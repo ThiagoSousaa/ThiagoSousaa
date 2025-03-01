@@ -14,8 +14,6 @@ Segurança 🔒, sistemas 🖥️ e desenvolvimento ⚙️.
   <a href="mailto:thiagosousasantos129@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
   <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoSousaa&bg_color=1b2436&color=27ece9&line=63c573&point=75d0d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
 <div style="display: inline_block"><br/>
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="html5," src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
